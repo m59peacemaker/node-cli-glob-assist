@@ -1,0 +1,38 @@
+{
+  "name": "cli-glob-assist",
+  "version": "0.0.0",
+  "description": "Uses a given glob pattern to make modifications to a set of glob patterns for convenient cli usage.",
+  "keywords": [
+    "cli",
+    "glob",
+    "globs",
+    "assist",
+    "helper",
+    "pattern",
+    "default",
+    "modify",
+    "convenient",
+    "convenience",
+    "user",
+    "type",
+    "easier",
+    "shorter",
+    "faster"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/node-cli-glob-assist"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
