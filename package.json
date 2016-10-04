@@ -1,6 +1,6 @@
 {
   "name": "cli-glob-assist",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Uses a given glob pattern to make modifications to a set of glob patterns for convenient cli usage.",
   "keywords": [
     "cli",
